@@ -6,7 +6,7 @@ A Streamlit app based on CLIP's Tensorflow Implementation from Scratch.PreTraine
 ## Getting it to Run:-
 ###  Installation:-
 ```
-pip install venv 
+pip install virtualenv
 ```
 Create a new venv and activate it
 
