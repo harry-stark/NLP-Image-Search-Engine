@@ -1,0 +1,7 @@
+tensorflow_hub==0.11.0
+streamlit==0.76.0
+opencv_python==4.5.1.48
+tensorflow_text==2.4.3
+numpy==1.19.2
+tensorflow_addons==0.12.1
+tensorflow==2.4.0
